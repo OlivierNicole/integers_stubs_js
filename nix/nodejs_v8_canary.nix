@@ -1,0 +1,1 @@
+/home/olivier/woo/nix/nodejs_v8_canary.nix
